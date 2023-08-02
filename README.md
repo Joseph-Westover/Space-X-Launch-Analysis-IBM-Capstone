@@ -12,4 +12,5 @@ As part of my analysis I was expected to:
 4. Visualize data by creating Seaborn plots
 5. Visualize data on a US map by creating Folium plots
 6. Utilize Machine Learning algorithms to see which would be most effective at predicting if a launch would be succesful
-7. All files in this directory are associated with this project.
+
+*All files in this directory are associated with this project.
