@@ -8,8 +8,8 @@ As part of my analysis I was expected to:
 
 1. Use BeautifulSoup webscraping techniques to grab Falcon 9 launch data from the web
 2. Perform data wrangling on acquired data and use one hot encoding to classify successful and unsuccesful launches numerically
-Explore data using SQL commands
-Visualize data by creating Seaborn plots
-Visualize data on a US map by creating Folium plots
-Utilize Machine Learning algorithms to see which would be most effective at predicting if a launch would be succesful
-All files in this directory are associated with this project.
+3. Explore data using SQL commands
+4. Visualize data by creating Seaborn plots
+5. Visualize data on a US map by creating Folium plots
+6. Utilize Machine Learning algorithms to see which would be most effective at predicting if a launch would be succesful
+7. All files in this directory are associated with this project.
