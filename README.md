@@ -1,7 +1,5 @@
 # Space-X-Launch-Analysis-IBM-Capstone
 
-IBM-Data-Science-Projects
-
 For this project I was employed by Space X's biggest competitor, Space Y, to analyze launch data for Space X Falcon 9 launches.
 
 My goal was to investigate other variables to see if they influenced if a launch would be succesful or unsuccesful.
