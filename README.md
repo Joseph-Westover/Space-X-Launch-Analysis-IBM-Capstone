@@ -6,8 +6,8 @@ My goal was to investigate other variables to see if they influenced if a launch
 
 As part of my analysis I was expected to:
 
-Use BeautifulSoup webscraping techniques to grab Falcon 9 launch data from the web
-Perform data wrangling on acquired data and use one hot encoding to classify successful and unsuccesful launches numerically
+1. Use BeautifulSoup webscraping techniques to grab Falcon 9 launch data from the web
+2. Perform data wrangling on acquired data and use one hot encoding to classify successful and unsuccesful launches numerically
 Explore data using SQL commands
 Visualize data by creating Seaborn plots
 Visualize data on a US map by creating Folium plots
